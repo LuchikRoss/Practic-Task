@@ -1,0 +1,21 @@
+{
+  "name": "practic-task",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "bower": "^1.8.4",
+    "fontawesome": "^4.7.2",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1",
+    "jquery": "^3.3.1",
+    "swiper": "^4.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rostyslav Naryzhniak",
+  "license": "ISC",
+  "description": ""
+}
